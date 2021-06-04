@@ -15,9 +15,6 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/ronald1512/puf17640?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/ronald1512?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
