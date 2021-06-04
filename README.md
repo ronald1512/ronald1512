@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/puf17640" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=puf17640&title_color=333&text_color=777" alt="Julian's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ronald1512&title_color=333&text_color=777" alt="Ronald's Stats" >
   </a>
 </p>
 
@@ -24,26 +24,26 @@
     <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/julianpufler">
+  <a href="https://linkedin.com/in/ronald-gabriel-romero-gonzález-483a30172">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/ronald1512/puf17640?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/ronald1512?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/ronald1512?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/ronald1512?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/ronald1512?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
